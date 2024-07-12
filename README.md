@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Zooom GitHub stats](https://github-readme-stats.vercel.app/api?username=JUMINAHN&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Zooom GitHub stats](https://github-readme-stats.vercel.app/api?username=JUMINAHN&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
