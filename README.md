@@ -14,7 +14,7 @@ I'm a developer with experience in Django and Python. I have a background in tou
 - 🚀 Currently working on a side project in web development.
 
 ## GitHub Stats
-![ZOOM GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+[![Zooom GitHub stats](https://github-readme-stats.vercel.app/api?username=JUMINAHN&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fun Fact
 - ⚡ I love exploring new technologies at my own pace!
