@@ -6,8 +6,7 @@ I'm a developer with experience in Django and Python. I have a background in tou
 **JUMINAHN/JUMINAHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JUMINAHN=anuraghazra&layout=compact)
-- 🌟 Django & Python
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUMINAHN&layout=compact)- 🌟 Django & Python
 - 🌿 Java & Databases
 - 🎨 HTML & CSS
 
