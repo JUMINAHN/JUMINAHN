@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hello~ Welcome to My GitHub ✨
+# ✨ Welcome to My GitHub ✨
 
 ## 🛠 Tech Stack 🛠
 
